@@ -1,0 +1,78 @@
+.navbar-default {
+  background: white;
+  filter: none;
+  border: none;
+  height: 100px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+body { 
+  background: white  !important;
+   }
+
+.navbar .navbar-brand {
+  height: 70px;
+  margin: 0px;
+  padding: 5px 5px;
+}
+
+.navbar .nav a {
+font-family: 'Raleway';
+font-size: 17px;
+color:#041B51 !important;
+margin-top: 15px;
+}
+
+::selection {
+	color: #FFF;
+	background: #E54242;
+}
+
+.container .jumbotron {
+    border-botton-color: #041B51;
+    border-botton: 20px;
+}
+
+
+#user_nav {
+    height: 60px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    width: 100%;
+}
+
+#user_nav ul {
+    font-family: 'Raleway';
+    font-size: 17px;
+    color:#041B51 !important;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+#user_nav ul li {
+    font-family: 'Raleway';
+    font-size: 17px;
+    color:#041B51 !important;
+    list-style: none;
+    display: inline-block;    
+}
+
+#user_nav ul li a {
+    font-family: 'Raleway';
+    font-size: 17px;
+    color:#041B51 !important;
+    vertical-align: middle;
+    padding: 15px 25px 0 0;
+    display: block;
+}
+
+
+/*#welc {
+  color:#041B51 !important;
+}
+
+#btnn {
+  font-family: 'Raleway';
+}*/
